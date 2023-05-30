@@ -1,0 +1,36 @@
+:root {
+  --text-color: #123d6a;
+
+  --accent-one: #f0bc68;
+  --accent-two: #e5185d;
+
+  --primary-one: #d75379;
+  --primary-two: #e45691;
+  --primary-three: #f171a1;
+
+  --neutral-one: #f1ebf5;
+  --neutral-two: #fafafe;
+  --neutral-three: #d4d1e4;
+
+  --secondary-one: #a1c2d1;
+  --secondary-two: #b29bc7;
+  --secondary-three: #ff81b6;
+}
+
+@font-face {
+  font-family: 'Manrope';
+  src: url('./assets/fonts/Manrope/Manrope-VariableFont_wght.ttf');
+}
+
+@font-face {
+  font-family: 'Playfair Display';
+  src: url('./assets/fonts/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf');
+}
+
+@font-face {
+  font-family: 'Playfair Display Italic';
+  src: url('./assets/fonts/Playfair_Display/PlayfairDisplay-Italic-VariableFont_wght.ttf');
+}
+
+/* font-family: 'Manrope', sans-serif;
+font-family: 'Playfair Display', serif; */
